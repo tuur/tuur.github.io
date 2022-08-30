@@ -15,8 +15,8 @@ My general topics of research include: machine learning, clinical prediction mod
 
 News
 ======
-- We received an [NWA small projects grant](https://www.nwo.nl/en/calls/small-projects-nwa-routes-21/22) to investigate the role of error propagation and statistical validity of text mining in medical prediction research!
-- Together with [dr. Madhumita Sushil](https://madhumitasushil.github.io/) (UCSF) we participated in the [N2C2 challenge](https://n2c2.dbmi.hms.harvard.edu/2022-track-2) on extraction of social determinants of health from clinical records! (code can be found [here](https://github.com/tuur/sdoh_n2c2track2_ucsf_umcu))
-- Our study on collinearity in prediction models was [published](https://doi.org/10.1186/s41512-021-00115-5) in Diagnostic and Prognostic Research.
-- Our review about guidelines for AI-based medical prediction models was [published](https://www.nature.com/articles/s41746-021-00549-7) at npj Digital Medicine.
+- [Aug, 2022] We received an [NWA small projects grant](https://www.nwo.nl/en/calls/small-projects-nwa-routes-21/22) to investigate the role of error propagation and statistical validity of text mining in medical prediction research!
+- [July, 2022] Together with [dr. Madhumita Sushil](https://madhumitasushil.github.io/) (UCSF) we participated in the [N2C2 challenge](https://n2c2.dbmi.hms.harvard.edu/2022-track-2) on extraction of social determinants of health from clinical records! (code can be found [here](https://github.com/tuur/sdoh_n2c2track2_ucsf_umcu))
+- [Jan, 2022] Our study on collinearity in prediction models was [published](https://doi.org/10.1186/s41512-021-00115-5) in Diagnostic and Prognostic Research.
+- [Jan, 2022] Our review about guidelines for AI-based medical prediction models was [published](https://www.nature.com/articles/s41746-021-00549-7) at npj Digital Medicine.
 
