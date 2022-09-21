@@ -13,7 +13,7 @@ I am an assistant professor at the [Julius Center](https://juliuscentrum.umcutre
 
 My main research focus is on (1) clinical prediction modeling / machine learning, and (2) natural language processing of medical texts. I am very interested in how to effectively use routine care data to arrive at a better prognosis for patients.
 
-If you wish to do a MSc thesis / internship in this area. Feel free to send me an email.
+If you wish to do a MSc thesis / internship in this area. Feel free to send me an email ([url](https://uu.konjoin.nl/profile/tuur-leeuwenberg)).
 
 News
 ======
