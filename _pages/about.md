@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an assistant professor at the [Julius Center](https://juliuscentrum.umcutrecht.nl/en) of the University Medical Center Utrecht. I conducted my [PhD research](https://limo.libis.be/primo-explore/fulldisplay?docid=LIRIAS2837094&context=L&vid=Lirias&search_scope=Lirias&tab=default_tab&fromSitemap=1) at the [LIIR Research Lab](https://liir.cs.kuleuven.be/) of the Computer Science Department, Katholieke Universiteit Leuven, together with [Prof. dr. Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/). 
+I am an assistant professor at the [Julius Center](https://juliuscentrum.umcutrecht.nl/en) of the University Medical Center Utrecht. I conducted my [PhD research](https://limo.libis.be/primo-explore/fulldisplay?docid=LIRIAS2837094&context=L&vid=Lirias&search_scope=Lirias&tab=default_tab&fromSitemap=1) at the [LIIR Research Lab](https://liir.cs.kuleuven.be/) of the Computer Science Department, KU Leuven, with [Prof. dr. Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/). 
 
 My main research focus is on (1) clinical prediction modeling / machine learning, and (2) natural language processing of medical texts. I am very interested in how to effectively use routine care data to arrive at a better prognosis for patients.
 
