@@ -17,8 +17,7 @@ If you wish to do a MSc thesis / internship in this area. Feel free to send me a
 
 News
 ======
-[![RAISE](/images/RAISE.png){: height="50"}](https://www.uu.nl/en/news/project-funded-responsible-use-of-free-text-in-medical-prediction-research)
-
+![RAISE](/images/RAISE.png){: height="50"}
 
 - [Aug, 2022] Happy to announce that our project "RAISE: Responsible AI Science Explorations" was funded by an [NWA small projects grant](https://www.nwo.nl/en/calls/small-projects-nwa-routes-21/22), in which I will lead a methodological subproject investigating error propagation and statistical validity of clinical text mining in medical prediction research via simulation studies! 
 
