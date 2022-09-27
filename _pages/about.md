@@ -21,7 +21,7 @@ News
 
 - [Aug, 2022] Happy to announce that our project "RAISE: Responsible AI Science Explorations" was funded by an [NWA small projects grant](https://www.nwo.nl/en/calls/small-projects-nwa-routes-21/22), in which I will lead a methodological subproject investigating error propagation and statistical validity of clinical text mining in medical prediction research via simulation studies! 
 
-[<img align="right" src="/images/N2C2.png" alt="N2C2" />](https://github.com/tuur/sdoh_n2c2track2_ucsf_umcu){: height="50" }
+[<img align="right" src="/images/N2C2.png" alt="N2C2" style="height:60px;"/>](https://github.com/tuur/sdoh_n2c2track2_ucsf_umcu)
 
 
 - [July, 2022] Together with [dr. Madhumita Sushil](https://madhumitasushil.github.io/) (UCSF) we participated in the [N2C2 challenge](https://n2c2.dbmi.hms.harvard.edu/2022-track-2) on extraction of social determinants of health from clinical records! (code and abstract can be found [here](https://github.com/tuur/sdoh_n2c2track2_ucsf_umcu))
