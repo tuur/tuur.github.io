@@ -28,9 +28,9 @@ News
 
 [<img align="right" src="/images/Collinearity.png" alt="Collinearity" style="height:70px;border: 5px solid ##F2F2F2;"/>](https://doi.org/10.1186/s41512-021-00115-5)
 
-- [Jan, 2022] Our study on collinearity in prediction models was [published](https://doi.org/10.1186/s41512-021-00115-5) in Diagnostic and Prognostic Research.
+- [Jan, 2022] Our study about collinearity in clinical prediction modelling has been [published](https://doi.org/10.1186/s41512-021-00115-5) in Diagnostic and Prognostic Research (corresponding code can be found [here](https://github.com/tuur/collinearity)).
 
 [<img align="right" src="/images/Guidelines.png" alt="Guidelines" style="height:70px;border: 5px solid ##F2F2F2;"/>](https://www.nature.com/articles/s41746-021-00549-7)
 
-- [Jan, 2022] Our review about guidelines for AI-based medical prediction models was [published](https://www.nature.com/articles/s41746-021-00549-7) at npj Digital Medicine.
+- [Jan, 2022] Our scoping review about guidelines for AI-based medical prediction models was [published](https://www.nature.com/articles/s41746-021-00549-7) at npj Digital Medicine.
 
