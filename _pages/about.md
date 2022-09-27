@@ -17,20 +17,21 @@ If you wish to do a MSc thesis / internship in this area. Feel free to send me a
 
 News
 ======
-[<img align="right" src="/images/RAISE.png" alt="RAISE" height="50"/>](https://www.uu.nl/en/news/project-funded-responsible-use-of-free-text-in-medical-prediction-research)
+[![RAISE](/images/RAISE.png){: height="50"}](https://www.uu.nl/en/news/project-funded-responsible-use-of-free-text-in-medical-prediction-research)
+
 
 - [Aug, 2022] Happy to announce that our project "RAISE: Responsible AI Science Explorations" was funded by an [NWA small projects grant](https://www.nwo.nl/en/calls/small-projects-nwa-routes-21/22), in which I will lead a methodological subproject investigating error propagation and statistical validity of clinical text mining in medical prediction research via simulation studies! 
 
-[<img align="right" src="/images/N2C2.png" alt="N2C2" height="50"/>](https://github.com/tuur/sdoh_n2c2track2_ucsf_umcu)
+[<img align="right" src="/images/N2C2.png" alt="N2C2" />](https://github.com/tuur/sdoh_n2c2track2_ucsf_umcu){: height="50" }
 
 
 - [July, 2022] Together with [dr. Madhumita Sushil](https://madhumitasushil.github.io/) (UCSF) we participated in the [N2C2 challenge](https://n2c2.dbmi.hms.harvard.edu/2022-track-2) on extraction of social determinants of health from clinical records! (code and abstract can be found [here](https://github.com/tuur/sdoh_n2c2track2_ucsf_umcu))
 
-[<img align="right" src="/images/Collinearity.png" alt="Collinearity" height="50"/>](https://doi.org/10.1186/s41512-021-00115-5)
+[<img align="right" src="/images/Collinearity.png" alt="Collinearity" />](https://doi.org/10.1186/s41512-021-00115-5){: height="50" }
 
 - [Jan, 2022] Our study on collinearity in prediction models was [published](https://doi.org/10.1186/s41512-021-00115-5) in Diagnostic and Prognostic Research.
 
-[<img align="right" src="/images/Guidelines.png" alt="Guidelines" height="50"/>](https://www.nature.com/articles/s41746-021-00549-7)
+[<img align="right" src="/images/Guidelines.png" alt="Guidelines" />](https://www.nature.com/articles/s41746-021-00549-7){: height="50" }
 
 - [Jan, 2022] Our review about guidelines for AI-based medical prediction models was [published](https://www.nature.com/articles/s41746-021-00549-7) at npj Digital Medicine.
 
