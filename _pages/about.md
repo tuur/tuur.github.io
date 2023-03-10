@@ -17,6 +17,9 @@ If you wish to do a MSc thesis / internship in this area. Feel free to send me a
 
 News
 ======
+
+- [Jan, 2023] Together with [dr. Madhumita Sushil](https://madhumitasushil.github.io/) we are conducting a follow up study on our N2C2 submission about extraction of social factors from clinical reports. We investigated the impact of using different textual extraction models on the results of a downstream medical association study, and released a [preprint](https://arxiv.org/abs/2301.06570) on the results so far. 
+
 [<img align="right" src="/images/Performancemeasures.png" alt="RADONCPERF" style="height:70px;border: 5px solid ##F2F2F2;"/>](https://doi.org/10.1016/j.radonc.2022.109449)
 
 - [Dec, 2022] Our article on the relation between prediction model performance measures and patient selection outcomes for proton therapy in head and neck cancer, has been [published](https://doi.org/10.1016/j.radonc.2022.109449) in Radiotherapy and Oncology. Code can be found [here](https://github.com/tuur/NTCPPPmeasures).
