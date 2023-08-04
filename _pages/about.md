@@ -18,6 +18,11 @@ If you wish to do a MSc thesis / internship in this area. Feel free to send me a
 News
 ======
 
+- [Aug, 2023] Lotta Meijerink started her PhD! She will work on the methodology of developing, evaluating, monitoring, and updating of AI-based clinical prediction models.
+
+- [Feb, 2023] The [RAISE: Responsible AI Science Explorations](https://www.nwo.nl/projecten/nwa141822008) project has started! On the new [wiki](https://github.com/tuur/raise-2/wiki) you can find the the information on our subproject on error propagation and statistical validity of clinical text mining in medical prediction research.
+
+
 - [Jan, 2023] Together with [dr. Madhumita Sushil](https://madhumitasushil.github.io/) we are conducting a follow up study on our N2C2 submission about extraction of social factors from clinical reports. We investigated the impact of using different textual extraction models on the results of a downstream medical association study, and released a [preprint](https://arxiv.org/abs/2301.06570) on the results so far. 
 
 [<img align="right" src="/images/Performancemeasures.png" alt="RADONCPERF" style="height:70px;border: 5px solid ##F2F2F2;"/>](https://doi.org/10.1016/j.radonc.2022.109449)
