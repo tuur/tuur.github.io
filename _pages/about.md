@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Home"
+excerpt: "Home"
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,10 +18,13 @@ If you wish to do a MSc thesis / internship in this area. Feel free to send me a
 News
 ======
 
+- [Sept, 2023] Happy that Isa's article on [comparing supervised and semi-supervised machine learning approaches in NTCP modeling to predict complications in head and neck cancer patients](https://doi.org/10.1016/j.ctro.2023.100677) was published at Clinical and Translational Radiation Oncology!
+
+- [Sept, 2023] Our paper on [trends in population characteristics and the performance of the EuroSCORE II over time](https://doi.org/10.1093/ejcts/ezad301) was published at the European Journal of Cardio-Thoracic Surgery.
+
 - [Aug, 2023] Lotta Meijerink started her PhD! She will work on the methodology of developing, evaluating, monitoring, and updating of AI-based clinical prediction models.
 
 - [Feb, 2023] The [RAISE: Responsible AI Science Explorations](https://www.nwo.nl/projecten/nwa141822008) project has started! On the new [wiki](https://github.com/tuur/raise-2/wiki) you can find the the information on our subproject on error propagation and statistical validity of clinical text mining in medical prediction research.
-
 
 - [Jan, 2023] Together with [dr. Madhumita Sushil](https://madhumitasushil.github.io/) we are conducting a follow up study on our N2C2 submission about extraction of social factors from clinical reports. We investigated the impact of using different textual extraction models on the results of a downstream medical association study, and released a [preprint](https://arxiv.org/abs/2301.06570) on the results so far. 
 
