@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-I am an assistant professor at the [Julius Center](https://juliuscentrum.umcutrecht.nl/en) of the University Medical Center Utrecht. I conducted my [PhD research](https://limo.libis.be/primo-explore/fulldisplay?docid=LIRIAS2837094&context=L&vid=Lirias&search_scope=Lirias&tab=default_tab&fromSitemap=1) at the [LIIR Research Lab](https://liir.cs.kuleuven.be/) of the Computer Science Department, KU Leuven, with [Prof. dr. Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/). 
+I am an assistant professor at the [Julius Center](https://juliuscentrum.umcutrecht.nl/en) of the University Medical Center Utrecht. I conducted my [PhD research](https://limo.libis.be/primo-explore/fulldisplay?docid=LIRIAS2837094&context=L&vid=Lirias&search_scope=Lirias&tab=default_tab&fromSitemap=1) at the [LIIR Research Lab](https://liir.cs.kuleuven.be/) of the Computer Science Department, KU Leuven.
 
-My main research focus is on (1) clinical prediction modeling / machine learning, and (2) natural language processing of medical texts. I am very interested in how to effectively use routine care data to arrive at a better prognosis for patients.
+My main research focus is on **clinical natural language processing**, **prediction modeling**, and **machine learning** in medicine. I am very interested in how to effectively use routine care data to arrive at a better prognosis for patients.
 
-If you wish to do a MSc thesis / internship in this area. Feel free to send me an email ([url](https://uu.konjoin.nl/profile/tuur-leeuwenberg)).
+If you wish to do a thesis or internship in this area. Feel free to send me an email (aleeuw15 [at] umcutrecht [dot] nl), or have a look at [Konjoin](https://uu.konjoin.nl/profile/tuur-leeuwenberg).
 
 News
 ======
