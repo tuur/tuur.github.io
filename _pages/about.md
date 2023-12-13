@@ -18,6 +18,10 @@ If you wish to do a thesis or internship in this area, feel free to send me an e
 News
 ======
 
+- [December, 2023] The article by Merijn Rijk on the [recording of signs, symptoms and measurements in free text fields of primary care electronic health records](https://doi.org/10.1016/j.jclinepi.2023.111240) was accepted at Journal of Clinical Epidemiology!
+
+[<img align="right" src="/images/FreetextrecordingJCE" alt="FreetextrecordingJCE" style="height:70px;border: 5px solid ##F2F2F2;"/>]([https://doi.org/10.1186/s41512-021-00115-5](https://doi.org/10.1016/j.jclinepi.2023.111240))
+
 - [Sept, 2023] Happy that Isa's article on [comparing supervised and semi-supervised machine learning approaches in NTCP modeling to predict complications in head and neck cancer patients](https://doi.org/10.1016/j.ctro.2023.100677) was published at Clinical and Translational Radiation Oncology!
 
 - [Sept, 2023] Our paper on [trends in population characteristics and the performance of the EuroSCORE II over time](https://doi.org/10.1093/ejcts/ezad301) was published at the European Journal of Cardio-Thoracic Surgery.
