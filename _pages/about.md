@@ -23,7 +23,7 @@ News
 
 [<img align="right" src="/images/Semisup.png" alt="Semisup" style="height:70px;border: 5px solid ##F2F2F2;"/>]([https://doi.org/10.1016/j.ctro.2023.100677](https://doi.org/10.1016/j.ctro.2023.100677))
 
-- [Sept, 2023] Happy that Isa's article on [comparing supervised and semi-supervised machine learning approaches in NTCP modeling to predict complications in head and neck cancer patients](https://doi.org/10.1016/j.ctro.2023.100677) was published at Clinical and Translational Radiation Oncology!
+- [Sept, 2023] Happy that Isa Spiero's article on [comparing supervised and semi-supervised machine learning approaches in NTCP modeling to predict complications in head and neck cancer patients](https://doi.org/10.1016/j.ctro.2023.100677) was published at Clinical and Translational Radiation Oncology!
 
 [<img align="right" src="/images/dynamics.png" alt="Dynamics" style="height:70px;border: 5px solid ##F2F2F2;"/>]([https://doi.org/10.1093/ejcts/ezad301](https://doi.org/10.1093/ejcts/ezad301))
 
