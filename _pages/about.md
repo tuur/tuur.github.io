@@ -17,6 +17,15 @@ If you wish to do a thesis or internship in this area, feel free to send me an e
 
 News
 ======
+
+[<img align="right" src="/images/JCECrossInstNLPMeth.png" alt="JCECrossInstNLPMeth" style="height:70px;border: 5px solid ##F2F2F2;"/>]([https://doi.org/10.1016/j.jclinepi.2024.111258](https://doi.org/10.1016/j.jclinepi.2024.111258))
+
+- [January, 2024] Happy that our article, a result from great collaboration with Madhumita Sushil, on the [downstream impact of using NLP in medical association studies on the actual study results](https://doi.org/10.1016/j.jclinepi.2024.111258) was published in the Journal of Clinical Epidemiology!
+
+[<img align="right" src="/images/CompBioMed.png" alt="CompBioMed" style="height:70px;border: 5px solid ##F2F2F2;"/>]([https://doi.org/10.1016/j.compbiomed.2024.108014](https://doi.org/10.1016/j.compbiomed.2024.108014))
+
+- [January, 2024] Happy that our article, the result of the thesis project of Zwierd Grotenhuis, on the use of [text mining for extraction of health outcomes for prognostic model development](https://doi.org/10.1016/j.compbiomed.2024.108014) was published in Computers in Biology and Medicine!
+
 [<img align="right" src="/images/FreetextrecordingJCE.png" alt="FreetextrecordingJCE" style="height:70px;border: 5px solid ##F2F2F2;"/>]([https://doi.org/10.1016/j.jclinepi.2023.111240](https://doi.org/10.1016/j.jclinepi.2023.111240))
 
 - [December, 2023] The article by Merijn Rijk on the [recording of signs, symptoms and measurements in free text fields of primary care electronic health records](https://doi.org/10.1016/j.jclinepi.2023.111240) was accepted at Journal of Clinical Epidemiology!
