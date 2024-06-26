@@ -17,31 +17,31 @@ If you wish to do a thesis or internship in this area, feel free to send me an e
 
 News
 ======
-[<img align="right" src="/images/PerspectiveLLMEvalLancetDigHealth.png" alt="PerspectiveLLMEvalLancetDigHealth" style="height:70px;border: 5px solid ##F2F2F2;"/>]([https://doi.org/10.1016/S2589-7500(24)00111-0](https://doi.org/10.1016/S2589-7500(24)00111-0))
+[<img align="right" src="/images/PerspectiveLLMEvalLancetDigHealth.png" alt="PerspectiveLLMEvalLancetDigHealth" style="height:70px;border: 5px solid ##F2F2F2;"/>](https://doi.org/10.1016/S2589-7500(24)00111-0)
 
 - [June, 2024] Happy that our perspective with Anne de Hond on evaluation of LLMs for clinical care applications was published at the [Lancet Digital Health](https://doi.org/10.1016/S2589-7500(24)00111-0)!
 
-[<img align="right" src="/images/DutchClinicalNLPWorkshop.png" alt="DutchClinicalNLPWorkshop" style="height:70px;border: 5px solid ##F2F2F2;"/>]([https://clinicalnlp.nl/home/schedule/](https://clinicalnlp.nl/home/schedule/))
+[<img align="right" src="/images/DutchClinicalNLPWorkshop.png" alt="DutchClinicalNLPWorkshop" style="height:70px;border: 5px solid ##F2F2F2;"/>](https://clinicalnlp.nl/home/schedule/)
 
 - [June, 2024] Great to see Isa Spiero presenting her work with Matthew Scheeres on comparing language models to extract signs and symptoms from Dutch GP notes at the [Dutch Clinical NLP Workshop](https://clinicalnlp.nl/)!
 
-[<img align="right" src="/images/JCECrossInstNLPMeth.png" alt="JCECrossInstNLPMeth" style="height:70px;border: 5px solid ##F2F2F2;"/>]([https://doi.org/10.1016/j.jclinepi.2024.111258](https://doi.org/10.1016/j.jclinepi.2024.111258))
+[<img align="right" src="/images/JCECrossInstNLPMeth.png" alt="JCECrossInstNLPMeth" style="height:70px;border: 5px solid ##F2F2F2;"/>](https://doi.org/10.1016/j.jclinepi.2024.111258)
 
 - [January, 2024] Happy that our article, a result from great collaboration with Madhumita Sushil, on the [downstream impact of using NLP in medical association studies on the actual study results](https://doi.org/10.1016/j.jclinepi.2024.111258) was published in the Journal of Clinical Epidemiology!
 
-[<img align="right" src="/images/CompBioMed.png" alt="CompBioMed" style="height:70px;border: 5px solid ##F2F2F2;"/>]([https://doi.org/10.1016/j.compbiomed.2024.108014](https://doi.org/10.1016/j.compbiomed.2024.108014))
+[<img align="right" src="/images/CompBioMed.png" alt="CompBioMed" style="height:70px;border: 5px solid ##F2F2F2;"/>](https://doi.org/10.1016/j.compbiomed.2024.108014)
 
 - [January, 2024] Happy that our article, the result of the thesis project of Zwierd Grotenhuis, on the use of [text mining for extraction of health outcomes for prognostic model development](https://doi.org/10.1016/j.compbiomed.2024.108014) was published in Computers in Biology and Medicine!
 
-[<img align="right" src="/images/FreetextrecordingJCE.png" alt="FreetextrecordingJCE" style="height:70px;border: 5px solid ##F2F2F2;"/>]([https://doi.org/10.1016/j.jclinepi.2023.111240](https://doi.org/10.1016/j.jclinepi.2023.111240))
+[<img align="right" src="/images/FreetextrecordingJCE.png" alt="FreetextrecordingJCE" style="height:70px;border: 5px solid ##F2F2F2;"/>](https://doi.org/10.1016/j.jclinepi.2023.111240)
 
 - [December, 2023] The article by Merijn Rijk on the [recording of signs, symptoms and measurements in free text fields of primary care electronic health records](https://doi.org/10.1016/j.jclinepi.2023.111240) was accepted at Journal of Clinical Epidemiology!
 
-[<img align="right" src="/images/Semisup.png" alt="Semisup" style="height:70px;border: 5px solid ##F2F2F2;"/>]([https://doi.org/10.1016/j.ctro.2023.100677](https://doi.org/10.1016/j.ctro.2023.100677))
+[<img align="right" src="/images/Semisup.png" alt="Semisup" style="height:70px;border: 5px solid ##F2F2F2;"/>](https://doi.org/10.1016/j.ctro.2023.100677)
 
 - [Sept, 2023] Happy that Isa Spiero's article on [comparing supervised and semi-supervised machine learning approaches in NTCP modeling to predict complications in head and neck cancer patients](https://doi.org/10.1016/j.ctro.2023.100677) was published at Clinical and Translational Radiation Oncology!
 
-[<img align="right" src="/images/dynamics.png" alt="Dynamics" style="height:70px;border: 5px solid ##F2F2F2;"/>]([https://doi.org/10.1093/ejcts/ezad301](https://doi.org/10.1093/ejcts/ezad301))
+[<img align="right" src="/images/dynamics.png" alt="Dynamics" style="height:70px;border: 5px solid ##F2F2F2;"/>](https://doi.org/10.1093/ejcts/ezad301)
 
 - [Sept, 2023] Our paper on [trends in population characteristics and the performance of the EuroSCORE II over time](https://doi.org/10.1093/ejcts/ezad301) was published at the European Journal of Cardio-Thoracic Surgery.
 
