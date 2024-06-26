@@ -17,6 +17,13 @@ If you wish to do a thesis or internship in this area, feel free to send me an e
 
 News
 ======
+[<img align="right" src="/images/PerspectiveLLMEvalLancetDigHealth.png" alt="PerspectiveLLMEvalLancetDigHealth" style="height:70px;border: 5px solid ##F2F2F2;"/>]([https://doi.org/10.1016/S2589-7500(24)00111-0](https://doi.org/10.1016/S2589-7500(24)00111-0))
+
+- [June, 2024] Happy that our perspective with Anne de Hond on evaluation of LLMs for clinical care applications was published at the [Lancet Digital Health](https://doi.org/10.1016/S2589-7500(24)00111-0)!
+
+[<img align="right" src="/images/DutchClinicalNLPWorkshop.png" alt="DutchClinicalNLPWorkshop" style="height:70px;border: 5px solid ##F2F2F2;"/>]([https://clinicalnlp.nl/home/schedule/](https://clinicalnlp.nl/home/schedule/))
+
+- [June, 2024] Great to see Isa Spiero presenting her work with Matthew Scheeres on comparing language models to extract signs and symptoms from Dutch GP notes at the [Dutch Clinical NLP Workshop](https://clinicalnlp.nl/)!
 
 [<img align="right" src="/images/JCECrossInstNLPMeth.png" alt="JCECrossInstNLPMeth" style="height:70px;border: 5px solid ##F2F2F2;"/>]([https://doi.org/10.1016/j.jclinepi.2024.111258](https://doi.org/10.1016/j.jclinepi.2024.111258))
 
