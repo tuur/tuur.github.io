@@ -17,6 +17,9 @@ If you wish to do a thesis or internship in this area, feel free to send me an e
 
 News
 ======
+
+- [November, 2024] Yu-Wen Chen started her PhD! She will work on the methodology of evaluating large language models in healthcare!
+
 - [September, 2024] Great to be able to contribute to the first evaluation of the GPT-based application to make draft discharge summaries developed by UMCU Digital Health [(read more...)]( https://www.uu.nl/en/news/gpt-pilot-to-write-draft-discharge-letters-at-the-umc-utrecht)
 
 [<img align="right" src="/images/PerspectiveLLMEvalLancetDigHealth.png" alt="PerspectiveLLMEvalLancetDigHealth" style="height:70px;border: 5px solid ##F2F2F2;"/>](https://doi.org/10.1016/S2589-7500(24)00111-0)
