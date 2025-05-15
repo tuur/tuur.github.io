@@ -17,7 +17,10 @@ If you wish to do a thesis or internship in this area, feel free to send me an e
 
 News
 ======
+- [May, 2025] Happy to announce that Lotta Meijerink's article titled 'Plug-and-play use of tree-based methods: Consequences for clinical prediction modelling' was just accepted at the Journal of Clinical Epidemiology!
 
+- [April, 2025] Great that Isa Spiero, Lotta Meijerink and Yeon Choi als presented their work at MEMTAB 2025 in Birmingham!
+  
 - [November, 2024] Yu-Wen Chen started her PhD! She will work on the methodology of evaluating large language models in healthcare!
 
 - [September, 2024] Great to be able to contribute to the first evaluation of the GPT-based application to make draft discharge summaries developed by UMCU Digital Health [(read more...)]( https://www.uu.nl/en/news/gpt-pilot-to-write-draft-discharge-letters-at-the-umc-utrecht)
