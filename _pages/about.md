@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an assistant professor at the [Julius Center](https://juliuscentrum.umcutrecht.nl/en) of the University Medical Center Utrecht. I conducted my [PhD research](https://limo.libis.be/primo-explore/fulldisplay?docid=LIRIAS2837094&context=L&vid=Lirias&search_scope=Lirias&tab=default_tab&fromSitemap=1) at the [LIIR Research Lab](https://liir.cs.kuleuven.be/) of the Computer Science Department, KU Leuven.
+Since 2019, I am an assistant professor at the [Julius Center](https://juliuscentrum.umcutrecht.nl/en) of the University Medical Center Utrecht. I conducted my [PhD research](https://limo.libis.be/primo-explore/fulldisplay?docid=LIRIAS2837094&context=L&vid=Lirias&search_scope=Lirias&tab=default_tab&fromSitemap=1) at the [LIIR Research Lab](https://liir.cs.kuleuven.be/) of the Computer Science Department, KU Leuven.
 
 **My primary expertise and research line is on natural language processing methods for healthcare settings**, with a special focus on NLP for routine care text data (e.g., clinical notes, discharge summaries, radiology reports, etc.) and the effective and responsible secondary use in healthcare research.
 
