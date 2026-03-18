@@ -11,12 +11,16 @@ redirect_from:
 
 I am an assistant professor at the [Julius Center](https://juliuscentrum.umcutrecht.nl/en) of the University Medical Center Utrecht. I conducted my [PhD research](https://limo.libis.be/primo-explore/fulldisplay?docid=LIRIAS2837094&context=L&vid=Lirias&search_scope=Lirias&tab=default_tab&fromSitemap=1) at the [LIIR Research Lab](https://liir.cs.kuleuven.be/) of the Computer Science Department, KU Leuven.
 
-My main research focus is on **clinical natural language processing**, **prediction modeling**, and **machine learning** in medicine. I am very interested in how to effectively use routine care data to arrive at a better prognosis for patients.
+**My primary expertise and research line is on natural language processing methods for healthcare settings**, with a special focus on NLP for routine care text data (e.g., clinical notes, discharge summaries, radiology reports, etc.) and the effective and responsible secondary use in healthcare research.
 
 If you wish to do a thesis or internship in this area, feel free to send me an email (aleeuw15 [at] umcutrecht [dot] nl), or have a look at [Konjoin](https://uu.konjoin.nl/profile/tuur-leeuwenberg)!
 
 News
 ======
+
+- [March, 2026] ! PhD position vacancy open on large Language Models & natural language processing to unlock the potential of healthcare [(read more...)](https://www.werkenbijumcutrecht.nl/vacatures/phd-kandidaat/phd-position-large-language-models-natural-language-processing-to-unlock-the-potential-of-healthcare-2026-6876).
+- [December, 2025] Preprint out by Isa Spiero on comparison of local large language models for extraction of signs and symptoms data from electronic health records [(read more...)](https://www.medrxiv.org/content/10.64898/2025.12.11.25341954v1.full)
+
 - [May, 2025] Happy to announce that Lotta Meijerink's article titled 'Plug-and-play use of tree-based methods: Consequences for clinical prediction modelling' was just accepted at the Journal of Clinical Epidemiology!
 
 - [April, 2025] Great that Isa Spiero, Lotta Meijerink and Yeon Choi als presented their work at MEMTAB 2025 in Birmingham!
