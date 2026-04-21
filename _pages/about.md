@@ -17,7 +17,9 @@ If you wish to do a thesis or internship in this area, feel free to send me an e
 
 News
 ======
-- [March, 2026] Happy that Maria Dukmak's article - in great collaboration with Constanza Andaur - on extracting medication instructions from Dutch GP EHR texts, was accepted by and will be presented at the Clinical NLP Workshop in May 2026 [(read more...)](https://clinical-nlp.github.io/).
+
+- [April, 2026] **Preprint out** with the early results of our **systematic review on NLP/LLM tools developed or evaluated in real-world Dutch EHRs** [[(read more...)](https://zenodo.org/records/19461436).
+- [March, 2026] Happy that Maria Dukmak's **article** - in great collaboration with Constanza Andaur - on extracting medication instructions from Dutch GP EHR texts, was **accepted** by and will be presented at the **Clinical NLP Workshop** in May 2026 [(read more...)](https://clinical-nlp.github.io/).
 - [March, 2026] ! **PhD position vacancy open** on large Language Models & natural language processing to unlock the potential of healthcare [(read more...)](https://www.werkenbijumcutrecht.nl/vacatures/phd-kandidaat/phd-position-large-language-models-natural-language-processing-to-unlock-the-potential-of-healthcare-2026-6876).
 - [December, 2025] Preprint out by Isa Spiero on comparison of local large language models for extraction of signs and symptoms data from electronic health records [(read more...)](https://www.medrxiv.org/content/10.64898/2025.12.11.25341954v1.full)
 
