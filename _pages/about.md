@@ -20,8 +20,10 @@ News
 
 [<img align="right" src="/images/plosonejce.png" alt="PLOSONEJCE" style="height:240px;border: 5px solid ##F2F2F2;"/>](https://doi.org/10.1016/j.jclinepi.2026.112320)
 
-- [June, 2026] **Two Articles out!** by Isa Spiero: one on using **local LLMs for extraction of signs and symptoms data from electronic health records**
-in PLOS ONE [(read more)](https://doi.org/10.1371/journal.pone.0350625), and one investigating **LLMs for automated assessment of reporting quality and completeness of prediction model studies** in the Journal of Clinical Epidemiology  [(read more...)](https://doi.org/10.1016/j.jclinepi.2026.112320).
+- [June, 2026] **Two Articles out!** by Isa Spiero:
+  - One **comparing local LLMs for extraction of signs and symptoms data from electronic health records**
+in PLOS ONE [(read more)](https://doi.org/10.1371/journal.pone.0350625),
+  - And one investigating **LLMs for automated assessment of reporting quality and completeness of prediction model studies** in the Journal of Clinical Epidemiology  [(read more...)](https://doi.org/10.1016/j.jclinepi.2026.112320).
 
 - [April, 2026] **Preprint out** with the early results of our **systematic review on NLP/LLM tools developed or evaluated in routine care Dutch EHRs** [(read more...)](https://zenodo.org/records/19461436).
 - [March, 2026] Happy that Maria Dukmak's **article** - in great collaboration with Constanza Andaur - on extracting medication instructions from Dutch GP EHR texts, was **accepted** by and will be presented at the **Clinical NLP Workshop** in May 2026 [(read more...)](https://clinical-nlp.github.io/).
