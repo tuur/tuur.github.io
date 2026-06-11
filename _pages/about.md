@@ -17,6 +17,9 @@ If you wish to do a thesis or internship in this area, feel free to send me an e
 
 News
 ======
+
+[<img align="right" src="/images/plosonejce.png" alt="PLOSONEJCE" style="height:240px;border: 5px solid ##F2F2F2;"/>](https://doi.org/10.1016/j.jclinepi.2026.112320)
+
 - [June, 2026] **Two Articles out!** by Isa Spiero: one on using **local LLMs for extraction of signs and symptoms data from electronic health records**
 in PLOS ONE [(read more)](https://doi.org/10.1371/journal.pone.0350625), and one investigating **LLMs for automated assessment of reporting quality and completeness of prediction model studies** in the Journal of Clinical Epidemiology  [(read more...)](https://doi.org/10.1016/j.jclinepi.2026.112320).
 
