@@ -11,7 +11,7 @@ redirect_from:
 
 Since 2019, I am an assistant professor at the [Julius Center](https://juliuscentrum.umcutrecht.nl/en) of the University Medical Center Utrecht. I conducted my [PhD research](https://limo.libis.be/primo-explore/fulldisplay?docid=LIRIAS2837094&context=L&vid=Lirias&search_scope=Lirias&tab=default_tab&fromSitemap=1) at the [LIIR Research Lab](https://liir.cs.kuleuven.be/) of the Computer Science Department, KU Leuven.
 
-**My primary expertise and research line is on natural language processing methods for healthcare settings**, with a special focus on NLP for routine care text data (e.g., clinical notes, discharge summaries, radiology reports, etc.) and the effective and responsible secondary use in healthcare research.
+**My primary expertise and research line is on natural language processing (NLP) methods (including large language models; LLMs) for healthcare settings**, with a special focus on NLP/LLMs for routine care text data (e.g., clinical notes, discharge summaries, radiology reports, etc.) and the effective and responsible secondary use in healthcare research.
 
 If you wish to do a thesis or internship in this area, feel free to send me an email (aleeuw15 [at] umcutrecht [dot] nl), or have a look at [Konjoin](https://uu.konjoin.nl/profile/tuur-leeuwenberg)!
 
@@ -20,6 +20,10 @@ News
 
 [<img align="right" src="/images/plosonejce.png" alt="PLOSONEJCE" style="height:240px;border: 5px solid ##F2F2F2;"/>](https://doi.org/10.1016/j.jclinepi.2026.112320)
 
+- Two contributions will be presented at [CLIN36](https://clin36.ai.vub.ac.be/programme.html) (Sept. 11, Brussels):
+  - [POSTER] "Adapting Clinical Event Annotation to Dutch Primary Care" (by Sara Mazzucato).
+  - [ORAL] The updated (up to end May'26) results from our **systematic review on NLP/LLM tools developed or evaluated in routine care Dutch EHRs** (preprinted [here](https://zenodo.org/records/21977782)).
+- [September, 2026] Our paper on "**Pretrained language models for selection of cohorts** from electronic health records" was published in Informatics in Medicine Unlocked [(read more)](https://doi.org/10.1016/j.imu.2026.101803).
 - [June, 2026] **Two Articles out!** by Isa Spiero:
   - One **comparing local LLMs for extraction of signs and symptoms data from electronic health records**
 in PLOS ONE [(read more)](https://doi.org/10.1371/journal.pone.0350625),
