@@ -21,7 +21,7 @@ News
 [<img align="right" src="/images/plosonejce.png" alt="PLOSONEJCE" style="height:240px;border: 5px solid ##F2F2F2;"/>](https://doi.org/10.1016/j.jclinepi.2026.112320)
 
 - Two contributions will be presented at [CLIN36](https://clin36.ai.vub.ac.be/programme.html) (Sept. 11, Brussels):
-  - [POSTER] "Adapting Clinical Event Annotation to Dutch Primary Care" (by Sara Mazzucato).
+  - [POSTER] "Adapting Clinical Event Annotation to Dutch Primary Care" (by Sara Mazzucato, preprinted [here](https://www.medrxiv.org/content/10.64898/2026.08.19.26360841v1)).
   - [ORAL] The updated (up to end May'26) results from our **systematic review on NLP/LLM tools developed or evaluated in routine care Dutch EHRs** (preprinted [here](https://zenodo.org/records/21977782)).
 - [September, 2026] Our paper on "**Pretrained language models for selection of cohorts** from electronic health records" was published in Informatics in Medicine Unlocked [(read more)](https://doi.org/10.1016/j.imu.2026.101803).
 - [June, 2026] **Two Articles out!** by Isa Spiero:
